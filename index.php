@@ -1,3 +1,3 @@
 <?php
-  echo '<p> Hello Worlds from Qazar</p>';
+  echo '<p> Hello World from zennith</p>';
   ?>
